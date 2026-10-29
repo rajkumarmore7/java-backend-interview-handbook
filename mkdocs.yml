@@ -45,5 +45,6 @@ nav:
       - '06 · Streams & Lambdas': notes/java-streams-functional-programming.md
       - '07 · Exception Handling': notes/java-exception-handling.md
       - '08 · Generics & Type Erasure': notes/java-generics-type-erasure.md
+      - '09 · Multithreading & Concurrency': notes/java-multithreading.md
   - Interview practice:
       - 30 interview questions: interview-questions/30-questions.md
