@@ -1,0 +1,42 @@
+site_name: Java Backend Interview Handbook
+site_description: Practical notes, Java 21 examples, diagrams and interview Q&A
+site_url: https://example.github.io/java-backend-interview-handbook/
+repo_name: java-backend-interview-handbook
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
+  - tables
+nav:
+  - Home: index.md
+  - Roadmap & progress: roadmap.md
+  - Study notes:
+      - '01 · JDK, JRE & JVM': notes/java-execution.md
+      - '02 · HashMap Internals': notes/hashmap-internals.md
+  - Interview practice:
+      - 30 interview questions: interview-questions/30-questions.md

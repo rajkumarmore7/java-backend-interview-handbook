@@ -1,0 +1,8 @@
+site/
+.venv/
+__pycache__/
+*.pyc
+examples/**/out/
+.idea/
+*.iml
+.DS_Store
