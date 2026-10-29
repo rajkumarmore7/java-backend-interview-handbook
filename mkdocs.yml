@@ -56,5 +56,6 @@ nav:
       - '17 · Microservices & API Gateway': notes/microservices-api-gateway.md
       - '18 · Resilience & Distributed Transactions': notes/microservices-resilience-distributed-transactions.md
       - '19 · Kafka & Event-Driven Architecture': notes/kafka-event-driven-architecture.md
+      - '20 · SQL Optimization & Transactions': notes/sql-optimization-transactions.md
   - Interview practice:
       - 30 interview questions: interview-questions/30-questions.md
