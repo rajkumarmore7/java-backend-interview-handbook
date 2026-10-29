@@ -51,5 +51,6 @@ nav:
       - '12 · Modern Java 17 & 21': notes/modern-java-17-21.md
       - '13 · Spring IoC, DI & Beans': notes/spring-ioc-di-beans.md
       - '14 · Spring Boot & Spring MVC': notes/spring-boot-mvc-autoconfiguration.md
+      - '15 · Spring Data JPA & Hibernate': notes/spring-data-jpa-hibernate.md
   - Interview practice:
       - 30 interview questions: interview-questions/30-questions.md
