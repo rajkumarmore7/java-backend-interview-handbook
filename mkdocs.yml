@@ -52,5 +52,6 @@ nav:
       - '13 · Spring IoC, DI & Beans': notes/spring-ioc-di-beans.md
       - '14 · Spring Boot & Spring MVC': notes/spring-boot-mvc-autoconfiguration.md
       - '15 · Spring Data JPA & Hibernate': notes/spring-data-jpa-hibernate.md
+      - '16 · Spring Security, JWT & OAuth2': notes/spring-security-jwt-oauth2.md
   - Interview practice:
       - 30 interview questions: interview-questions/30-questions.md
