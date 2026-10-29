@@ -43,5 +43,6 @@ nav:
       - '04 · Collections Framework': notes/java-collections.md
       - '05 · HashMap Internals': notes/hashmap-internals.md
       - '06 · Streams & Lambdas': notes/java-streams-functional-programming.md
+      - '07 · Exception Handling': notes/java-exception-handling.md
   - Interview practice:
       - 30 interview questions: interview-questions/30-questions.md
