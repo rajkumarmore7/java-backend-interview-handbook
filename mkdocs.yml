@@ -47,5 +47,6 @@ nav:
       - '08 · Generics & Type Erasure': notes/java-generics-type-erasure.md
       - '09 · Multithreading & Concurrency': notes/java-multithreading.md
       - '10 · Advanced Concurrency': notes/java-advanced-concurrency.md
+      - '11 · JVM Memory, GC & Diagnostics': notes/jvm-memory-gc-diagnostics.md
   - Interview practice:
       - 30 interview questions: interview-questions/30-questions.md
