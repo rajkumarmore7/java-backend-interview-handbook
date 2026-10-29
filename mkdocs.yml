@@ -49,5 +49,6 @@ nav:
       - '10 · Advanced Concurrency': notes/java-advanced-concurrency.md
       - '11 · JVM Memory, GC & Diagnostics': notes/jvm-memory-gc-diagnostics.md
       - '12 · Modern Java 17 & 21': notes/modern-java-17-21.md
+      - '13 · Spring IoC, DI & Beans': notes/spring-ioc-di-beans.md
   - Interview practice:
       - 30 interview questions: interview-questions/30-questions.md
