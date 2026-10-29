@@ -54,5 +54,6 @@ nav:
       - '15 · Spring Data JPA & Hibernate': notes/spring-data-jpa-hibernate.md
       - '16 · Spring Security, JWT & OAuth2': notes/spring-security-jwt-oauth2.md
       - '17 · Microservices & API Gateway': notes/microservices-api-gateway.md
+      - '18 · Resilience & Distributed Transactions': notes/microservices-resilience-distributed-transactions.md
   - Interview practice:
       - 30 interview questions: interview-questions/30-questions.md
